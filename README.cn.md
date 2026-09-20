@@ -4,7 +4,7 @@
 
 Terminal-based typing test.
 
-![ttyper](https://repo.x-cmd.io/ttyper.svg?lang=zh)
+[![x-cmd/install — ttyper Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ttyper.svg?lang=zh)](https://x-cmd.com/install/ttyper)
 
 ## 安装
 
@@ -45,7 +45,7 @@ x install ttyper
 
 ## 流行度
 
-- **Star**: 1,595 · **Fork**: 117 · **开放 issue**: 95 · **贡献者**: 44
+- **Star**: 1,596 · **Fork**: 117 · **开放 issue**: 95 · **贡献者**: 44
 
 ## 累计统计
 
@@ -55,12 +55,12 @@ x install ttyper
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 4 | 0 | 3 | 1 |
-| 360d | 2025-09-23 | 0 | 5 | 5 | 3 | 7 | 8 |
-| last720d | 2024-09-28 | 0 | 9 | 6 | 5 | 14 | 13 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 360d | 2025-09-25 | 0 | 4 | 5 | 2 | 7 | 8 |
+| last720d | 2024-09-30 | 0 | 9 | 6 | 5 | 14 | 13 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ ttyper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:26:15Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:19:17Z._
