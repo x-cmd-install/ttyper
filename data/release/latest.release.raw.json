@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1070,
       "digest": null,
-      "download_count": 58,
+      "download_count": 59,
       "created_at": "2024-08-12T22:30:30Z",
       "updated_at": "2024-08-12T22:30:30Z",
       "browser_download_url": "https://github.com/max-niederman/ttyper/releases/download/v1.6.0/LICENSE.md"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 984029,
       "digest": null,
-      "download_count": 1109,
+      "download_count": 1112,
       "created_at": "2024-08-12T22:30:23Z",
       "updated_at": "2024-08-12T22:30:24Z",
       "browser_download_url": "https://github.com/max-niederman/ttyper/releases/download/v1.6.0/ttyper-aarch64-unknown-linux-musl.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 854949,
       "digest": null,
-      "download_count": 695,
+      "download_count": 698,
       "created_at": "2024-08-12T22:30:28Z",
       "updated_at": "2024-08-12T22:30:28Z",
       "browser_download_url": "https://github.com/max-niederman/ttyper/releases/download/v1.6.0/ttyper-x86_64-unknown-linux-gnu.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": null,
-      "download_count": 52,
+      "download_count": 54,
       "created_at": "2024-08-12T22:30:29Z",
       "updated_at": "2024-08-12T22:30:29Z",
       "browser_download_url": "https://github.com/max-niederman/ttyper/releases/download/v1.6.0/ttyper-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 888831,
       "digest": null,
-      "download_count": 626,
+      "download_count": 629,
       "created_at": "2024-08-12T22:30:29Z",
       "updated_at": "2024-08-12T22:30:29Z",
       "browser_download_url": "https://github.com/max-niederman/ttyper/releases/download/v1.6.0/ttyper-x86_64-unknown-linux-musl.tar.gz"
