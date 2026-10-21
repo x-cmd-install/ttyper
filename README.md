@@ -28,8 +28,8 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,607 · **Forks**: 127 · **Open issues**: 95 · **Contributors**: 44
+- **Stars**: 1,607 · **Forks**: 121 · **Open issues**: 95 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-23 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 360d | 2025-10-25 | 0 | 4 | 5 | 2 | 5 | 8 |
-| last720d | 2024-10-30 | 0 | 9 | 6 | 6 | 12 | 13 |
+| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-24 | 0 | 0 | 1 | 0 | 2 | 0 |
+| 360d | 2025-10-26 | 0 | 4 | 5 | 2 | 5 | 8 |
+| last720d | 2024-10-31 | 0 | 9 | 6 | 6 | 12 | 13 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for ttyper lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:50:18Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:50:34Z._
