@@ -93,6 +93,28 @@
     - MIT
   categories:
     - games
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ttyper
+  binname: ttyper
+  visiblename: ttyper
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Terminal-based typing test
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ttyper
+  binname: ttyper
+  visiblename: ttyper
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Terminal-based typing test
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: ttyper
