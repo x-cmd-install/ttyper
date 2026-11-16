@@ -42,12 +42,12 @@
   srcname: ttyper-git
   binname: ttyper-git
   visiblename: ttyper-git
-  version: 1.6.0.r2.g6d34398
-  origversion: 1.6.0.r2.g6d34398-1
+  version: 1.6.0.r15.ge218bad
+  origversion: 1.6.0.r15.ge218bad-1
   status: rolling
   summary: Terminal-based typing test
   maintainers:
-    - fallback-mnt-aur@repology
+    - fbf-prog64@aur
   licenses:
     - MIT
 - repo: chimera
