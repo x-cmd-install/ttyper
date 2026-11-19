@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 2 | 0 | 2 | 0 |
-| 360d | 2025-11-22 | 0 | 4 | 6 | 1 | 5 | 8 |
-| last720d | 2024-11-27 | 0 | 9 | 7 | 6 | 11 | 13 |
+| 30d | 2026-10-20 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 360d | 2025-11-24 | 0 | 4 | 6 | 1 | 5 | 8 |
+| last720d | 2024-11-29 | 0 | 9 | 7 | 6 | 11 | 13 |
 
 ## Release assets
 
@@ -88,6 +88,17 @@ Lowest-scoring checks:
 | [ttyper-x86_64-unknown-linux-musl.tar.gz](https://github.com/max-niederman/ttyper/releases/download/v1.6.0/ttyper-x86_64-unknown-linux-musl.tar.gz) | 868.0 KiB | `native/linux/x64/musl` |
 | [ttyper-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/max-niederman/ttyper/releases/download/v1.6.0/ttyper-x86_64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **21** distros on [repology.org](https://repology.org/project/ttyper). **19** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.6.0` | ✅ latest |
+| Nix unstable | `1.6.0` | ✅ latest |
+| Alpine edge | `1.6.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.6.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for ttyper lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ttyper` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +108,4 @@ Install metadata for ttyper lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:33:58Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:43:45Z._
